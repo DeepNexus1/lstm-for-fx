@@ -57,16 +57,10 @@ The project represented a significant technical challenge in:
 - Requires careful review and potential updates for current market conditions
 - MT4 trade logic is built from a genetic algorithm and is sample logic only
 - Python 3.5 was used to build this project
+- Final production models are proprietary
 
 ## Disclaimer
 This is a research project and should not be considered financial advice. Trading involves significant financial risk.
-
-## Future Work
-- Potential areas for enhancement:
-  - Model retraining with recent market data
-  - Expanded currency pair coverage
-  - Performance optimization
-  - Enhanced error handling and logging
 
 ## License
 http://www.apache.org/licenses/LICENSE-2.0
